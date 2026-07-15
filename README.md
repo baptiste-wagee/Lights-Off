@@ -6,7 +6,7 @@ Le jeu a été entièrement réalisé en **Java**, avec pour objectif principal 
 
 ## 🌐 Lien
 
-[👉 *(Lights-Off)*](https://github.com/baptiste-wagee/Lights-Off)
+[*(Lights-Off)*](https://github.com/baptiste-wagee/Lights-Off)
 
 ## 📖 À propos du projet
 
@@ -38,7 +38,7 @@ L'objectif n'est pas seulement de développer un jeu fonctionnel, mais égalemen
 
 ## 📸 Aperçu
 
-*(Ajoutez ici une capture d'écran du jeu.)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/119e7c55-613f-4315-b929-dd010a33b17c" />
 
 ## 📂 Installation
 
